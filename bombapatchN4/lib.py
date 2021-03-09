@@ -1,0 +1,3 @@
+def tryme():
+	print('WZAP')
+
